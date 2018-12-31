@@ -1,2 +1,2 @@
 # hello-world
-A repository to familiarize yourself with GitHub.
+A repository to familiarize one's self with GitHub created by rachwindur.
